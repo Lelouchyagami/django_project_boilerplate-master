@@ -1,10 +1,6 @@
 # django_project_boilerplate
 
-A boilerplate Django project for quickly getting started
-
-[![alt text](https://github.com/justdjango/django_project_boilerplate/blob/master/thumbnail.png "Logo")](https://www.youtube.com/watch?v=GEogao-tUec)
-
-Admin password: matt1234
+A Tutorial project to create an Ecommerce website in Django.
 
 Steps:
 
