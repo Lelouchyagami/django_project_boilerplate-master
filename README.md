@@ -1,6 +1,5 @@
 # django_project_boilerplate
 
-A Tutorial project to create an Ecommerce website in Django.
 
 Steps:
 
