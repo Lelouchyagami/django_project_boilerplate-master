@@ -1,3 +1,4 @@
+
 env
 **/*.pyc
 **/__pycache__
@@ -6,6 +7,11 @@ static_root
 .DS_Store
 *.sqlite3
 *.env
+*.idea
+/include
+/lib
+/lib64
+/venv
 
 # Accept these files in the repository
 !.gitignore
